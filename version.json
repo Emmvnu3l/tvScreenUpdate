@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "mandatory": true,
+  "apkUrl": "https://github.com/tuusuario/tvScreen/releases/download/v1.0.0/app-release.apk",
+  "changelog": [
+    "Versión inicial de la aplicación"
+  ],
+  "minSdk": 24
+}
