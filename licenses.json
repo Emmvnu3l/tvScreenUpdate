@@ -3,7 +3,7 @@
         {
             "code": "TV-30D-A8K2M9",
             "expiresAt": "2026-06-17",
-            "enabled": true
+            "enabled": false
         },
         {
             "code": "TV-30D-MAYO01",
@@ -13,7 +13,7 @@
         {
             "code": "TV-90D-P7Q4Z1",
             "expiresAt": "2026-08-17",
-            "enabled": true
+            "enabled": false
         }
     ]
 }
