@@ -1,14 +1,19 @@
 {
-  "licenses": [
-    {
-      "code": "TV-30D-A8K2M9",
-      "expiresAt": "2026-06-17",
-      "enabled": true
-    },
-    {
-      "code": "TV-90D-P7Q4Z1",
-      "expiresAt": "2026-08-17",
-      "enabled": true
-    }
-  ]
+    "licenses": [
+        {
+            "code": "TV-30D-A8K2M9",
+            "expiresAt": "2026-06-17",
+            "enabled": true
+        },
+        {
+            "code": "TV-30D-MAYO01",
+            "expiresAt": "2026-06-01",
+            "enabled": true
+        },
+        {
+            "code": "TV-90D-P7Q4Z1",
+            "expiresAt": "2026-08-17",
+            "enabled": true
+        }
+    ]
 }
