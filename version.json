@@ -1,10 +1,10 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "mandatory": true,
-  "apkUrl": "https://emmvnu3l.github.io/tvScreenUpdate/releases/app-release.apk",
+  "apkUrl": "https://emmvnu3l.github.io/tvScreenUpdate/releases/app-release1-2.apk",
   "changelog": [
-    "Versión inicial de la aplicación"
+    "Versión 1.2.0: Se ha añadido la función CATALOGO 2 EN ESPAÑOL"
   ],
   "minSdk": 24
 }
